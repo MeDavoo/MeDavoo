@@ -1,8 +1,8 @@
 Im David Maddin. 
-Learning java and python, web and game development.
+Learning java, js, web and game development.
 
 Check out:
-Minecraft Multiplayer Map
+Minecraft Map :D
 https://www.planetminecraft.com/project/the-herding-minigame-map/
 
 Unity 2d platformer called Project Blocks
