@@ -1,5 +1,5 @@
 Im David Maddin. 
-Learning java, js, web and game development.
+Learning java, js, full stack web and game development.
 
 Check out:
 Minecraft Map :D
